@@ -3,3 +3,15 @@ build CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o: dyndep
 
 build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o: dyndep
 
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o: dyndep
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o: dyndep
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o: dyndep
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o: dyndep
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o: dyndep
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o: dyndep
+

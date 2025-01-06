@@ -79,7 +79,97 @@ build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o: CXX_COMPILER__
   OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
   dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
 
-build CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd | /home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXXModules.json CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o.modmap: CXX_DYNDEP__LarmSystemOOPSlutProjekt_Debug CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o.ddi | /home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXXDependInfo.json
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Client.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Client.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Booking.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Booking.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/AlarmSystem.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/AlarmSystem.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Sensor.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/Sensor.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/AlarmSystemFactory.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/AlarmSystemFactory.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.ddi: CXX_SCAN__LarmSystemOOPSlutProjekt_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/SensorFactory.cpp || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.ddi.i
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o: CXX_COMPILER__LarmSystemOOPSlutProjekt_scanned_Debug /home/linus/CLionProject/LarmSystemOOPSlutProjekt/SensorFactory.cpp | CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.modmap || cmake_object_order_depends_target_LarmSystemOOPSlutProjekt CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+  DEP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  OBJECT_FILE_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
+  dyndep = CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd
+
+build CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd | /home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXXModules.json CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.modmap CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.modmap: CXX_DYNDEP__LarmSystemOOPSlutProjekt_Debug CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o.ddi CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o.ddi | /home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -89,7 +179,7 @@ build CMakeFiles/LarmSystemOOPSlutProjekt.dir/CXX.dd | /home/linus/CLionProject/
 #############################################
 # Link the executable LarmSystemOOPSlutProjekt
 
-build LarmSystemOOPSlutProjekt: CXX_EXECUTABLE_LINKER__LarmSystemOOPSlutProjekt_Debug CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o
+build LarmSystemOOPSlutProjekt: CXX_EXECUTABLE_LINKER__LarmSystemOOPSlutProjekt_Debug CMakeFiles/LarmSystemOOPSlutProjekt.dir/main.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmCentral.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/Client.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/Booking.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystem.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/Sensor.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/AlarmSystemFactory.cpp.o CMakeFiles/LarmSystemOOPSlutProjekt.dir/SensorFactory.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/LarmSystemOOPSlutProjekt.dir
   POST_BUILD = :
