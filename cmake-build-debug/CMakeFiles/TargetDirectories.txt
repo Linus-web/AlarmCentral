@@ -1,0 +1,3 @@
+/home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/LarmSystemOOPSlutProjekt.dir
+/home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linus/CLionProject/LarmSystemOOPSlutProjekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
